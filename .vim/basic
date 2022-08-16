@@ -1,0 +1,13 @@
+imap jj <Esc>
+
+set ignorecase
+set smartcase
+set incsearch
+set hlsearch
+set shiftwidth=4
+set tabstop=4
+set expandtab
+
+set smartindent
+
+nnoremap <space> :noh
